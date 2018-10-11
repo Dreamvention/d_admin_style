@@ -45,11 +45,16 @@
     "admin/view/template/partial/welcome.twig"
   ],
   "dirs": [
-    "admin/view/stylesheet/d_admin_style",
+    "admin/view/javascript/d_admin_style",
+	"admin/view/stylesheet/d_admin_style",
     "admin/view/image/d_admin_style"
   ],
   "changelog": [
     {
+      "version": "1.0.6",
+      "change": "Add Gulp"
+    },
+	{
       "version": "1.0.5",
       "change": "Add welcome functionality in admin style.; Add Vuex; Add lodash; "
     },
