@@ -1,23 +1,26 @@
-$background:#f8f9fc;
+$padding: 15px;
+$background: #f8f9fc;
 $heading_background: #e9ebf4;
 $panel_background: #e9ebf4;
 $color: #000;
 $border_color: #dbdfef;
 $main_blue: #4fb5e7;
 $dark_blue: #3573ee;
-$warning: rgb(244, 107, 66);
+$red: #fa5b6d;
+$warning: #f46b42;
 $green: #86ce99;
-$red: rgb(250, 91, 109);
 $some_gray: #e9ebf4;
-$bs-callout-bgc:#fff;
-$bs-callout-brdc-bgc:$warning;
-$code-bgc:$color;
-$code-c:$panel_background;
-$tile:$main_blue;
-$tile-c:#fff;
-
-$nav-color:$color;
-$padding: 30px;
+$code-bgc: $panel_background;
+$code-c: $color;
+$tile-bgc: $main_blue;
+$tile-c: #fff;
+$pagination-color: #111111;
+$pagination-background-color: #fffffff;
+$pagination-border-color: #cfd7e7;
+$pagination-hover-background-color: #dde4f2;
+$pagination-active-background-color: #dde4f2;
+$pagination-active-hover-background-color: #c6cce4;
+$pagination-active-hover-border-color: #adbcd9;
 
 $very_slow_speed: 20.0s;
 $slow_speed: 10.0s;
