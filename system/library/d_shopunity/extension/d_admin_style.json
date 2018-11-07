@@ -41,8 +41,7 @@
     "admin/view/template/extension/d_admin_style/setup.twig",
     "system/library/d_shopunity/extension/d_admin_style.json",
     "admin/model/extension/d_admin_style/style.php",
-    "admin/language/en-gb/extension/d_admin_style/style.php",
-    "admin/view/template/partial/welcome.twig"
+    "admin/language/en-gb/extension/d_admin_style/style.php"
   ],
   "dirs": [
     "admin/view/javascript/d_admin_style",
