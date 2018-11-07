@@ -1,6 +1,6 @@
 {
   "codename": "d_admin_style",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "Admin Style",
   "description": "Admin style: dark or light.",
   "author": {
@@ -51,6 +51,10 @@
   ],
   "changelog": [
     {
+      "version": "1.0.7",
+      "change": "Bugs fixed"
+    },
+	{
       "version": "1.0.6",
       "change": "Add Gulp"
     },

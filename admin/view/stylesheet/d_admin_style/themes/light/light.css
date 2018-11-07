@@ -37,7 +37,7 @@ button {
   width: 100%; }
 
 table .btn, .btn.popup-extension {
-  padding: 8px 13px !important; }
+  padding: 8px 13px; }
 
 .panel-default .btn {
   border-radius: 4px;
@@ -882,9 +882,6 @@ button {
   outline: 0px solid white !important;
   -moz-outline: 0px solid white !important;
   -webkit-outline: 0px solid white !important; }
-
-button + button {
-  margin-left: 3px; }
 
 #cancel-button {
   margin-left: 3px; }

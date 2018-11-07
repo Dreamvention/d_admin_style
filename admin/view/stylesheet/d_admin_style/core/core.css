@@ -33,7 +33,7 @@ button {
   width: 100%; }
 
 table .btn, .btn.popup-extension {
-  padding: 8px 13px !important; }
+  padding: 8px 13px; }
 
 .panel-default .btn {
   border-radius: 4px;
