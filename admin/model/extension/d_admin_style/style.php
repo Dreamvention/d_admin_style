@@ -32,12 +32,4 @@ class ModelExtensionDAdminStyleStyle extends Model
         $data['entry_admin_style'] = $this->language->get('entry_admin_style');
         return $data;
     }
-
-    public function getWelcomeView($route, $data)
-    {
-        $this->document->addStyle('view/stylesheet/d_admin_style/core/welcome.css');
-        $data['header'] = $this->load->controller('common/header');
-        return $this->load->view('partial/welcome', $data);
-    }
-
 }
