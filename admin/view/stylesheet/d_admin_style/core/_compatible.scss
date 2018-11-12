@@ -1,5 +1,11 @@
-.hide {
+.hide, .hidden {
 	display: none;
+}
+.show {
+	display: block;
+}
+.invisible {
+	visibility: hidden;
 }
 .flex {
 	display: flex;

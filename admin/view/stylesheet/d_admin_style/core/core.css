@@ -442,8 +442,14 @@ input[type="checkbox"] {
 .extension-show-thumb .alert {
   overflow: hidden; }
 
-.hide {
+.hide, .hidden {
   display: none; }
+
+.show {
+  display: block; }
+
+.invisible {
+  visibility: hidden; }
 
 .flex {
   display: flex; }
